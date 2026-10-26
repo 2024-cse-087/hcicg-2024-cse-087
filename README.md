@@ -1,10 +1,13 @@
 # hcicg-2024-cse-087
 # HCI Coursework Repository
 
+Student Information
 
-- **Name: ** Khadija Imran
-- **Registration Number:** 2024-cse-087
-- **Course:** Human-Computer Interaction (HCI)
+Name: Khadija Imran
+
+Registration Number: 2024-cse-087
+
+Course: Human-Computer Interaction (HCI)
 
 ## Chosen Toolchain
 
